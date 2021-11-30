@@ -11,6 +11,7 @@
   background-position: center;
   position: relative;
 }
+
 .logo {
   width: 100px;
   cursor: pointer;
@@ -88,4 +89,7 @@
 #icon {
   width: 80px;
   cursor: pointer;
+}
+.img {
+  mask-image: url(media/image.png);
 }
