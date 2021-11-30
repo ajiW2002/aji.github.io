@@ -75,6 +75,9 @@
   font-weight: 400;
   margin-right: 15px;
 }
+.label {
+  margin-bottom: 10px;
+}
 #icon {
   width: 80px;
   cursor: pointer;
